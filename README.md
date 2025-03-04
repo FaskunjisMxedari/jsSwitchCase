@@ -1,0 +1,2 @@
+# jsSwitchCase
+Homework about javascript
